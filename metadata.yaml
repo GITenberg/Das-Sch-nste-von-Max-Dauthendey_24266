@@ -1,0 +1,43 @@
+_repo: Das-Sch-nste-von-Max-Dauthendey_24266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dauthendey, Max
+    alias: Dauthendey‏,  Maximilian Albert‏
+    birthdate: 1867
+    deathdate: 1918
+    gutenberg_agent_id: '26361'
+    url: http://www.gutenberg.org/2009/agents/26361
+    wikipedia: http://de.wikipedia.org/wiki/Max_Dauthendey
+  editor:
+    agent_name: Molo, Walter von
+    aliases:
+    - Molo, Walter von,‏ Ritter
+    - Von Molo, Walter
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '26360'
+    url: http://www.gutenberg.org/2009/agents/26360
+description: ''
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24266'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 20th century'
+- !lcsh 'India -- Fiction'
+- !lcsh 'China -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Malay Peninsula -- Fiction'
+- !lcsh 'Japan -- Fiction'
+title: Das Schönste von Max Dauthendey
+url: http://www.gutenberg.org/ebooks/24266
